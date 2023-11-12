@@ -1,7 +1,7 @@
 pipeline {
  agent any
   environment {
-     registry = "sahaja1/spring3_Jms21_githubactions_40"
+     registry = "sahaja1/spring3_jms21_githubactions_40"
      registryCrdentials = 'dockerhub_credentials'
 	 dockerImage=''
   }
