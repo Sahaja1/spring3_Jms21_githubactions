@@ -1,2 +1,2 @@
 FROM tomcat:8
-COPY target/spring3_Jms21_githubactions.war /usr/local/tomcat/webapps/spring3.war
+COPY target/spring3-mvc-maven-xml-hello-world-1.3.war /usr/local/tomcat/webapps/spring3.war
